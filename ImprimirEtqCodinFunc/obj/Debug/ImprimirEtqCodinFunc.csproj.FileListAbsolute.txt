@@ -1,0 +1,13 @@
+c:\users\kjjrq5\onedrive - aptiv\documentos\visual studio 2015\Projects\ImprimirEtqCodinFunc\ImprimirEtqCodinFunc\bin\Debug\ImprimirEtqCodinFunc.exe.config
+C:\Users\kjjrq5\OneDrive - Aptiv\Documentos\Visual Studio 2015\Projects\ImprimirEtqCodinFunc\ImprimirEtqCodinFunc\bin\Debug\ImprimirEtqCodinFunc.exe
+C:\Users\kjjrq5\OneDrive - Aptiv\Documentos\Visual Studio 2015\Projects\ImprimirEtqCodinFunc\ImprimirEtqCodinFunc\bin\Debug\ImprimirEtqCodinFunc.pdb
+C:\Users\kjjrq5\OneDrive - Aptiv\Documentos\Visual Studio 2015\Projects\ImprimirEtqCodinFunc\ImprimirEtqCodinFunc\obj\Debug\ImprimirEtqCodinFunc.csprojResolveAssemblyReference.cache
+C:\Users\kjjrq5\OneDrive - Aptiv\Documentos\Visual Studio 2015\Projects\ImprimirEtqCodinFunc\ImprimirEtqCodinFunc\obj\Debug\ImprimirEtqCodinFunc.Form1.resources
+C:\Users\kjjrq5\OneDrive - Aptiv\Documentos\Visual Studio 2015\Projects\ImprimirEtqCodinFunc\ImprimirEtqCodinFunc\obj\Debug\ImprimirEtqCodinFunc.Properties.Resources.resources
+C:\Users\kjjrq5\OneDrive - Aptiv\Documentos\Visual Studio 2015\Projects\ImprimirEtqCodinFunc\ImprimirEtqCodinFunc\obj\Debug\ImprimirEtqCodinFunc.csproj.GenerateResource.Cache
+C:\Users\kjjrq5\OneDrive - Aptiv\Documentos\Visual Studio 2015\Projects\ImprimirEtqCodinFunc\ImprimirEtqCodinFunc\obj\Debug\ImprimirEtqCodinFunc.exe
+C:\Users\kjjrq5\OneDrive - Aptiv\Documentos\Visual Studio 2015\Projects\ImprimirEtqCodinFunc\ImprimirEtqCodinFunc\obj\Debug\ImprimirEtqCodinFunc.pdb
+C:\Users\kjjrq5\onedrive - aptiv\documentos\visual studio 2015\Projects\ImprimirEtqCodinFunc\ImprimirEtqCodinFunc\bin\Debug\ImprimirEtqCodinFunc.exe.manifest
+C:\Users\kjjrq5\onedrive - aptiv\documentos\visual studio 2015\Projects\ImprimirEtqCodinFunc\ImprimirEtqCodinFunc\bin\Debug\ImprimirEtqCodinFunc.application
+C:\Users\kjjrq5\onedrive - aptiv\documentos\visual studio 2015\Projects\ImprimirEtqCodinFunc\ImprimirEtqCodinFunc\obj\Debug\ImprimirEtqCodinFunc.exe.manifest
+C:\Users\kjjrq5\onedrive - aptiv\documentos\visual studio 2015\Projects\ImprimirEtqCodinFunc\ImprimirEtqCodinFunc\obj\Debug\ImprimirEtqCodinFunc.application
